@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 ## Github Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bflyer&show_icons=true&theme=radical)](https://github.com/bflyer)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bflyer&layout=compact)](https://github.com/bflyer)
