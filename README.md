@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 I'm a student at the Department of Computer Science and Technology, Tsinghua University.
-✨ Passionate about Virtual Reality and Embodied Intelligence.
-💡 Let's connect! Email me at bosheng791@gmail.com or hbs22@mails.tsinghua.edu.cn.
-🏀🎸📝 Outside of cs, I love playing basketball, playing guitar, and songwriting. If you share these interests, feel free to reach out and chat!
+🎓 I'm a student at the Department of Computer Science and Technology, Tsinghua University.  
+✨ Passionate about Virtual Reality and Embodied Intelligence.  
+💡 Let's connect! Email me at bosheng791@gmail.com or hbs22@mails.tsinghua.edu.cn.  
+🏀🎸📝 Outside of cs, I love playing basketball, playing guitar, and songwriting. If you share these interests, feel free to reach out and chat!  
